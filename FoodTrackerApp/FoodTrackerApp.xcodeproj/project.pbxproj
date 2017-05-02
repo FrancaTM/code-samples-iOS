@@ -430,6 +430,7 @@
 				3F13CD701EAB963800EAC109 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3F13CD711EAB963800EAC109 /* Build configuration list for PBXNativeTarget "FoodTrackerAppTests" */ = {
 			isa = XCConfigurationList;
@@ -438,6 +439,7 @@
 				3F13CD731EAB963800EAC109 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

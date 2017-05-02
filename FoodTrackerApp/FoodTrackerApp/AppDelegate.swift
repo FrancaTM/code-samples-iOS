@@ -10,7 +10,7 @@
 
 // TODO: Modificações pendentes
 // 1 - Corrigir bug do rating control durante edit mode (delete) da table view
-// 2 - Recolorir assets de estrelas no Sketch
+// 2 - Corrigir bugs de orientação para modo landscape
 
 import UIKit
 
